@@ -1,0 +1,29 @@
+{
+  "burgers": [
+    {
+      "id": 1,
+      "name": "Flatburger",
+      "price": 4.99
+    },
+    {
+      "id": 2,
+      "name": "Bacon Burger",
+      "price": 5.99
+    },
+    {
+      "id": 3,
+      "name": "Avocado Burger",
+      "price": 9.99
+    },
+    {
+      "id": 4,
+      "name": "Ramen Burger",
+      "price": 4.99
+    },
+    {
+      "id": 5,
+      "name": "Pizza Burger",
+      "price": 15.99
+    }
+  ]
+}
